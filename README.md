@@ -11,6 +11,14 @@
 
 ---
 
+# 🛠️ Featured Projects
+
+* **🚗 Workshop ERP / Management System**  
+  An end-to-end management application designed to handle vehicle maintenance histories, automated billing/invoicing, and work order tracking.  
+  `Django` • `PostgreSQL` • `React (Vite)` • `REST APIs`
+
+---
+
 # 💻 Tech Stack
 
 **Backend & APIs**  
@@ -49,8 +57,13 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Billyow&icon=0&color=0" alt="Visitor Count" />
+# 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jorge-andrés-rojas-sepúlveda-b10061230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:itsvgin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
